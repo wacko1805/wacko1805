@@ -19,8 +19,8 @@
 
 ### Abandoned Projects:
 * Fossapps (Replaced by Fossapps Creator)
-* Pixel-fy Launcher (abandoned for android 12, a11 should work fine)
-* 
+* Pixel-fy Launcher (abandoned for android 12 instead use <a href="https://t.me/PixelLauncherM">Pixel Launcher M</a> instead, a11 should work fine)
+* Pixel-fy spoofs (Use <a href="https://t.me/PixelProps">PixelProps</a> Instead)
 
 
 ### Current devices:
