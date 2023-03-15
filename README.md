@@ -24,7 +24,8 @@
 
 
 ### Current devices:
-* Oneplus 7t pro (Daily)
+* Pixel 7 Pro (Daily)
+* Oneplus 7t pro 
 * Xiaomi mi 9t (Android 12 test phone)
 * LeEco s3 (Android 10-11 test phone)
 
