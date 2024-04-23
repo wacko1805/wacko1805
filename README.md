@@ -1,3 +1,5 @@
+# Jack Sam @ <a href="https://jacks.am">Jacks.am</a>
+
 ## MagiskGapps Maker (MGM)
 MagiskGApps Maker is an online tool to convert regular GApps packages into a Magisk flashable package. 
 
