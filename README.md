@@ -1,30 +1,20 @@
-## Downloads:
-![SourceForge](https://img.shields.io/sourceforge/dt/magiskgapps?label=MagiskGApps&style=for-the-badge )
-![GitHub all releases](https://img.shields.io/github/downloads/wacko1805/fossapps/total?label=Fossapps&style=for-the-badge)  ![GitHub all releases](https://img.shields.io/github/downloads/wacko1805/pixel-Wallpaper-app/total?label=Pixel-Wallpaper-App&style=for-the-badge)
+## MagiskGapps Maker (MGM)
+MagiskGApps Maker is an online tool to convert regular GApps packages into a Magisk flashable package. 
 
-## 
+![SourceForge](https://img.shields.io/sourceforge/dt/magiskgapps?label=MagiskGApps&style=for-the-badge ) (Downloads represent Previous MagiskGApps builds, not MGM builds)
 
-### Current projects:
-* Fossapps Creator
-* Pixel Wallpaper App
-* MagiskGApps
-* Anypost 
-* Pixel Spoofs
+<a href="https://github.com/wacko1805/magiskgapps.com">Repo</a> <a href="https://magiskgapps.com">Website</a>
+## Fossapps Maker
+Fossapps Creator is an online tool to select desired FOSS (Free and open source) alternatives to Google apps, and compile them into a Magisk flashable zip package.
 
-### In the works: 
-* CustomGApps (A web interface to create a custom GApps package)
-* Anypost 2.0 
-* Scrollhub (A website where users and create and use custom scrollbars on there website)
+![GitHub all releases](https://img.shields.io/github/downloads/wacko1805/fossapps/total?label=Fossapps&style=for-the-badge)
 
-### Abandoned Projects:
-* Fossapps (Replaced by Fossapps Creator)
-* Pixel-fy Launcher (abandoned for android 12 instead use <a href="https://t.me/PixelLauncherM">Pixel Launcher M</a> instead, a11 should work fine)
-* Pixel-fy spoofs (Use <a href="https://t.me/PixelProps">PixelProps</a> Instead)
+<a href="https://github.com/wacko1805/Fossapps-creator">Repo</a> <a href="https://un.pixel-fy.com">Website</a>
+## Pixel Walls
+Pixel Walls is an app that contains the largest collection of stock Google wallpapers. These wallpapers can be exclusive to Google devices, spefic holidays, etc, and is constantly updating. 
 
+![GitHub all releases](https://img.shields.io/github/downloads/wacko1805/pixel-Wallpaper-app/total?label=Pixel-Wallpaper-App&style=for-the-badge)
 
-### Current devices:
-* Pixel 7 Pro (Daily)
-* Oneplus 7t pro 
-* Xiaomi mi 9t (Android 12 test phone)
-* LeEco s3 (Android 10-11 test phone)
+<a href="https://github.com/wacko1805/Pixel-Wallpaper-app">Repo</a> <a href="https://github.com/wacko1805/Pixel-Wallpaper-app/releases">Download</a>  <a href="">Website</a>
+
 
